@@ -2,7 +2,7 @@
 - 👀 I’m interested in SCRUM, REACT NATIVE
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Project Management and Agile Methodologies 
-- 📫 How to reach me ...
+- 📫 You can reach me at https://www.linkedin.com/in/krishjlk/
 
 <!---
 krishjlk/krishjlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
